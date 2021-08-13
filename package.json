@@ -44,7 +44,7 @@
     "eslint-plugin-import": "^2.21.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
-    "next": "^9.3.2",
+    "next": "^11.1.0",
     "nextron": "^5.14.5",
     "null-loader": "^3.0.0",
     "react": "^16.13.1",
